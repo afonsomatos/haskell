@@ -1,0 +1,1 @@
+main = readFile "13-nums" >>= print . take 10 . show . sum . map read . lines
