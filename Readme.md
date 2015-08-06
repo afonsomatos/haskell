@@ -5,8 +5,8 @@
 
 This repo includes books, exercises, experiments and projects that I did/am
 doing while learning Haskell. I have also put together a list of resources that
-I considered having a positive influence on my journey. I hope this helps
-anyone who is striking to learn Haskell.
+have had a positive influence on my journey. I hope this helps
+anyone who wants to learn Haskell.
 
 --
 
@@ -14,8 +14,8 @@ anyone who is striking to learn Haskell.
 
 There a lot, a *lot* of bad tutorials / books on Haskell. Some of them don't
 cover the essentials of the language and the most fundamental libraries and
-others are very outdated. While I wait for some good book that is error-free
-and updated, I have put together a list of resources I find most useful.
+others are very outdated. This list contains useful resources for any level
+learner.
 
 ### 1.1 Books
 
@@ -42,20 +42,20 @@ learning LYAH or RWH.
 
 [CIS 194 course (Spring 3013)](http://www.seas.upenn.edu/~cis194/spring13/)
 
-- This is the most recommended course out there. The note lectures are small and
-the exercises are of the best. I recommend to do this course with a mentor.
+- This is the most recommended course out there. The lecture notes are small and
+the exercises are some of the best. I recommend to do this course with a mentor.
 
 [20 Intermediate Haskell Exercises]
 (http://blog.tmorris.net/posts/20-intermediate-haskell-exercises/)
 
-- These are some very good exercises to do once you think you have figure out
+- These are some very good exercises to do once you think you have figured out
 typeclasses. Basically, you'll have to write functions based on their types.
 
 [Project Euler](https://projecteuler.net/)
 
 - Do a lot of these too. As a beginner, you'll probably be capable of solving
-the first 10. If you have solved these previously in another language, try
-writing it in your own without looking to what you had done (and then compare).
+the first 10. If you have already solved these in another language, try
+writing them without looking at your previous work.
 
 ## 2. Projects
 
@@ -92,20 +92,19 @@ Haskell!
 There are some pretty awesome stuff you should check when learning Haskell.
 
 [GHC Documentation](https://downloads.haskell.org/~ghc/latest/docs/html/) - A
-must read (specially the ghci chapter).
+must read (especially the ghci chapter).
 
-[Hoogle](https://www.haskell.org/hoogle/) - If Hoogle was a boy, you'd become
-gay. This is one of the most pleasant tools if you want more information about a
-certain function, class, etc.
+[Hoogle](https://www.haskell.org/hoogle/) - One of the most pleasant tools if
+you want more information about a certain function, class, etc.
 
 [Cabal](https://www.haskell.org/cabal/users-guide/) - A tool to create packages.
-You'll probably use this along with Hackage. The user-guide is excellent to
-learn more about it.
+You'll probably use this along with Hackage. The user-guide is excellent for
+learning more about it.
 
 [Hspec](http://hspec.github.io/) - A testing framework for Haskell. I recommend
 checking this out after writing some bigger Haskell programs.
 
-[Hackage](hackage.haskell.org) - This is the most used package achieve among
+[Hackage](hackage.haskell.org) - This is the most used package archieve among
 Haskell programmers. A little side note: Don't upload test packages, because
 they can't be deleted. For testing, use [Package candidates]
 (https://hackage.haskell.org/packages/candidates/upload).
@@ -119,8 +118,9 @@ websites.
 - [SO Haskell Chat Room](http://chat.stackoverflow.com/rooms/83002/haskell-room)
 
 - [IRC Chat](https://webchat.freenode.net/)
+(channel #haskell and #haskell-beginners)
 
-- [StackOverflow](stackoverflow.com)
+- [StackOverflow](http://stackoverflow.com)
 
 ## Little side notes
 
