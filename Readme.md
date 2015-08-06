@@ -8,7 +8,7 @@ doing while learning Haskell. I have also put together a list of resources that
 have had a positive influence on my journey. I hope this helps
 anyone who wants to learn Haskell.
 
---
+<hr width="100%"></hr>
 
 ## 1. Resources
 
@@ -111,9 +111,8 @@ they can't be deleted. For testing, use [Package candidates]
 
 ## Get help
 
-If you stumble across any kind of problem, try to spend at least 10 minutes
-trying to figure it out. If not, you can ask your question in this list of
-websites.
+If you stumble across any problem, or just want help, you can make your
+questions here:
 
 - [SO Haskell Chat Room](http://chat.stackoverflow.com/rooms/83002/haskell-room)
 
